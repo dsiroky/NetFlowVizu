@@ -1,0 +1,8 @@
+processes: [Pěšč1]
+traffic:
+  - src: {p: P1, ts: 3.4}
+    dst: {p: P2, ts: 5}
+    data: ýžř
+    color: '#d54242'
+marks:
+  - {p: P2, ts: 1, text: íáý}
