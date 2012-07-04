@@ -31,6 +31,7 @@ A:  Input data is probably not in a correct YAML format
     (http://en.wikipedia.org/wiki/YAML).
 
 Q:  net_flow_vizu_dia.py fails with any other exception.
+
 A:  Your input data has a wrong structure (or net_flow_vizu has a bug :-)
 
 Output example
