@@ -5,6 +5,7 @@ net_flow_vizu_dia.py converts a YAML formated network flow data into a dia
 
 Prerequisites
 =============
+Only in a case of a raw python script usage:
 - python 2.6+
 - python-lxml (http://pypi.python.org/pypi/lxml/)
 - python-yaml (http://pyyaml.org/wiki/PyYAML)
