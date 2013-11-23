@@ -2,3 +2,7 @@ build
 dist
 NetFlowVizu.egg-info
 PKG-INFO
+.ropeproject
+__pycache__
+*.pyc
+*.pyo
