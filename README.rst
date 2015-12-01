@@ -26,10 +26,9 @@ timestamps.
 
 FAQ
 ===
-Q:  net_flow_vizu_dia.py fails with an exception
-    "yaml.scanner.(Parser|Scanner)Error".
-A:  Input data is probably not in a correct YAML format
-    (http://en.wikipedia.org/wiki/YAML).
+Q:  net_flow_vizu_dia.py fails with an exception "yaml.scanner.(Parser|Scanner)Error".
+
+A:  Input data is probably not in a correct YAML format (http://en.wikipedia.org/wiki/YAML).
 
 Q:  net_flow_vizu_dia.py fails with any other exception.
 
