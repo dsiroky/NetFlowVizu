@@ -21,7 +21,7 @@ command line::
 
 Notes
 =====
-Items in sections "traffic" and "marks" doesn't need to be in order by
+Items in sections "traffic" and "marks" don't need to be in order by
 timestamps.
 
 FAQ
